@@ -1,1 +1,8 @@
-# num1
+{
+    "error": {
+        "message": "You exceeded your current quota, please check your plan and billing details.",
+        "type": "insufficient_quota",
+        "param": null,
+        "code": null
+    }
+}
